@@ -27,7 +27,7 @@ public class SendNoteUtil {
     //验证平台信息 开发者无需任何更改
     private static final String dysmsapi = "dysmsapi.aliyuncs.com";
 
-    DefaultProfile profile = DefaultProfile.getProfile("cn-hangzhou", "LTAI4GFbjHVJWCnTiBJdhUZm", "g56Hzz5pU8UVTmQXbqlgI5vUUtewIt");
+    DefaultProfile profile = DefaultProfile.getProfile("cn-hangzhou", "****************************", "*************************");
     IAcsClient client = new DefaultAcsClient(profile);
     //这一步的两个参数,一个是要发送验证码的手机号 一个是模板Code用来区分登录注册
     public String sendNoteMessgae(String PhoneNumbers){
@@ -52,7 +52,7 @@ public class SendNoteUtil {
         request.putQueryParameter("SignName", "Halo博客");//签名
 
         //模板代码,我暂时用的参数,你可以直接写成模板码,模板码参考第八步
-        request.putQueryParameter("TemplateCode", "SMS_205811339");
+        request.putQueryParameter("TemplateCode", "***************");
 
         //用户定义的验证码内容
         request.putQueryParameter("TemplateParam","{code:"+sb.toString()+"}");
