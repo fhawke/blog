@@ -1,0 +1,8 @@
+2020-11-27 11:07:34.842  INFO 12256 --- [main] com.star.BlogApplicationTests            : Starting BlogApplicationTests using Java 1.8.0_222 on MACHENI-000S8JG with PID 12256 (started by fhawk in F:\practice project\blog)
+2020-11-27 11:07:34.844  INFO 12256 --- [main] com.star.BlogApplicationTests            : The following profiles are active: pro
+2020-11-27 11:07:39.432  INFO 12256 --- [main] com.star.BlogApplicationTests            : Started BlogApplicationTests in 4.965 seconds (JVM running for 5.881)
+2020-11-27 11:07:41.133  INFO 12256 --- [main] com.star.service.impl.IMailServiceImpl   : 邮件已经发送。
+2020-11-27 16:49:45.461  INFO 4560 --- [main] com.star.BlogApplicationTests            : Starting BlogApplicationTests using Java 1.8.0_222 on MACHENI-000S8JG with PID 4560 (started by fhawk in F:\practice project\blog)
+2020-11-27 16:49:45.462  INFO 4560 --- [main] com.star.BlogApplicationTests            : The following profiles are active: pro
+2020-11-27 16:49:51.528  INFO 4560 --- [main] com.star.BlogApplicationTests            : Started BlogApplicationTests in 6.555 seconds (JVM running for 7.624)
+2020-11-27 16:49:53.526  INFO 4560 --- [main] com.star.service.impl.IMailServiceImpl   : 邮件已经发送。

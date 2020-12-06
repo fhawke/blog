@@ -1,0 +1,16 @@
+2020-11-26 11:46:56.373  INFO 22704 --- [main] com.star.BlogApplicationTests            : Starting BlogApplicationTests using Java 1.8.0_222 on MACHENI-000S8JG with PID 22704 (started by fhawk in F:\practice project\blog)
+2020-11-26 11:46:57.214  INFO 22704 --- [main] com.star.BlogApplicationTests            : The following profiles are active: pro
+2020-11-26 11:47:01.833  INFO 22704 --- [main] com.star.BlogApplicationTests            : Started BlogApplicationTests in 5.82 seconds (JVM running for 6.768)
+2020-11-26 11:47:03.618  INFO 22704 --- [main] com.star.service.impl.IMailServiceImpl   : 邮件已经发送。
+2020-11-26 12:15:29.184  INFO 24140 --- [main] com.star.BlogApplicationTests            : Starting BlogApplicationTests using Java 1.8.0_222 on MACHENI-000S8JG with PID 24140 (started by fhawk in F:\practice project\blog)
+2020-11-26 12:15:29.186  INFO 24140 --- [main] com.star.BlogApplicationTests            : The following profiles are active: pro
+2020-11-26 12:15:33.820  INFO 24140 --- [main] com.star.BlogApplicationTests            : Started BlogApplicationTests in 4.985 seconds (JVM running for 5.846)
+2020-11-26 12:15:35.452  INFO 24140 --- [main] com.star.service.impl.IMailServiceImpl   : 邮件已经发送。
+2020-11-26 22:59:48.515  INFO 13772 --- [main] com.star.BlogApplicationTests            : Starting BlogApplicationTests using Java 1.8.0_222 on MACHENI-000S8JG with PID 13772 (started by fhawk in F:\practice project\blog)
+2020-11-26 22:59:48.515  INFO 13772 --- [main] com.star.BlogApplicationTests            : The following profiles are active: pro
+2020-11-26 22:59:56.641  INFO 13772 --- [main] com.star.BlogApplicationTests            : Started BlogApplicationTests in 8.865 seconds (JVM running for 11.279)
+2020-11-26 22:59:58.610  INFO 13772 --- [main] com.star.service.impl.IMailServiceImpl   : 邮件已经发送。
+2020-11-26 23:05:56.038  INFO 24656 --- [main] com.star.BlogApplicationTests            : Starting BlogApplicationTests using Java 1.8.0_222 on MACHENI-000S8JG with PID 24656 (started by fhawk in F:\practice project\blog)
+2020-11-26 23:05:56.038  INFO 24656 --- [main] com.star.BlogApplicationTests            : The following profiles are active: pro
+2020-11-26 23:06:05.371  INFO 24656 --- [main] com.star.BlogApplicationTests            : Started BlogApplicationTests in 10.052 seconds (JVM running for 11.657)
+2020-11-26 23:06:07.559  INFO 24656 --- [main] com.star.service.impl.IMailServiceImpl   : 邮件已经发送。

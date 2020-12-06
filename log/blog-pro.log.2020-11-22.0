@@ -1,0 +1,9 @@
+2020-11-22 13:30:30.005  INFO 13144 --- [restartedMain] BlogApplication            : Starting BlogApplication using Java 1.8.0_222 on MACHENI-000S8JG with PID 13144 (F:\practice project\blog\target\classes started by fhawk in F:\practice project\blog)
+2020-11-22 13:30:30.007  INFO 13144 --- [restartedMain] BlogApplication            : The following profiles are active: pro
+2020-11-22 13:30:30.496  WARN 13144 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.star.blog]' package. Please check your configuration.
+2020-11-22 13:30:30.997  WARN 13144 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-11-22 13:30:31.159  INFO 13144 --- [restartedMain] BlogApplication            : Started BlogApplication in 1.556 seconds (JVM running for 3.439)
+2020-11-22 13:32:55.268  INFO 20488 --- [restartedMain] BlogApplication            : Starting BlogApplication using Java 1.8.0_222 on MACHENI-000S8JG with PID 20488 (F:\practice project\blog\target\classes started by fhawk in F:\practice project\blog)
+2020-11-22 13:32:55.270  INFO 20488 --- [restartedMain] BlogApplication            : The following profiles are active: pro
+2020-11-22 13:32:55.792  WARN 20488 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.star.blog]' package. Please check your configuration.
+2020-11-22 13:32:56.519  INFO 20488 --- [restartedMain] BlogApplication            : Started BlogApplication in 1.662 seconds (JVM running for 3.317)
